@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\ConsoleJanken\StateConnect.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateContext.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateDisconnect.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateInitialize.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateJan.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateKen.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateMachine.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StatePon.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StatePrepare.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\StateResult.h">
+      <Filter>StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleJanken\Janken.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\ConsoleJanken\StateConnect.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateContext.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateDisconnect.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateInitialize.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateJan.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateKen.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateMachine.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StatePon.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StatePrepare.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\StateResult.cpp">
+      <Filter>StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ConsoleJanken\Janken.cpp" />
+    <ClCompile Include="..\ConsoleJanken\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="StateMachine">
+      <UniqueIdentifier>{e455c25e-f939-4af4-83dc-3fca51d5707c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
